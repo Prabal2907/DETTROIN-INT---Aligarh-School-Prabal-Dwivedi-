@@ -1,0 +1,33 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@400;500;600&family=Inter:wght@400;500;600&display=swap');
+
+@theme {
+  --color-primary: #1B4D3E;
+  --color-secondary: #A8BBA2;
+  --color-accent: #C2410C;
+  --color-bg: #FAF8F5;
+  --color-text: #1F2937;
+  --color-text-muted: #5B6472;
+  --color-border: #E5E1D8;
+
+--font-heading: 'Space Grotesk';
+--font-body: 'Inter';
+}
+
+html {
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+  transition: 0.2s all ease-in-out;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--color-text);
+  background: var(--color-bg);
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-heading);
+  font-weight: 500;
+  line-height: 1.2;
+}
