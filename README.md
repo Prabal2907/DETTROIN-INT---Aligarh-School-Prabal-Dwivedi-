@@ -6,7 +6,7 @@
 - **Email Address:** [prabaldwivedi2907@gmail.com]
 - **GitHub Username:** Prabal2907
 - **Selected Website:** [Excellence International School](https://excellenceinternationalschool.com/)
-- **Live Demo Link:** [ADD VERCEL LINK HERE]
+- **Live Demo Link:** [https://dettroin-int-aligarh-school-prabald.vercel.app/]
 
 ## Overview
 
