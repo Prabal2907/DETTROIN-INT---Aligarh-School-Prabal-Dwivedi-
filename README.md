@@ -2,7 +2,8 @@
 
 ## Candidate Details
 - **Full Name:** Prabal Dwivedi
-- **Intern ID:** []
+- **Intern ID:** [Not showing intern id due to some fault in glassdoor's app.. 
+                please contact me through gmail(provided)]
 - **Email Address:** [prabaldwivedi2907@gmail.com]
 - **GitHub Username:** Prabal2907
 - **Selected Website:** [Excellence International School](https://excellenceinternationalschool.com/)
